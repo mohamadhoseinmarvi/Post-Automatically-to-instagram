@@ -17,7 +17,7 @@ Instagram Auto-Posting BOT - Post Automatically to instagram (Every X minutes)
 composer install
 ```
 3. Modifiy config.php with your Instagram Username / Password
-![](https://i.imgur.com/eeOnWDw.png)
+![](https://i.imgur.com/DhsZZg1.png)
 
 4. Upload your files to your hosting
 
